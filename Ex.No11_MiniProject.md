@@ -2,7 +2,7 @@
 ### DATE: 25.10.2024                                                                           
 ### REGISTER NUMBER :212221240010 
 ### AIM: 
-To write a python program to simulate the Balloon shooter game using pygame
+To write a python program to simulate the Balloon shooter game using pygame.
 ### Algorithm:
 
 1.Set up Pygame and create a display window.
